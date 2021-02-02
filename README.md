@@ -1,6 +1,6 @@
 <img align="right" src="assets/programming.gif" width="30%">
 
-# Hi, i'm RaflyGhost 1337 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hi, i'm Rafly1337 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 I am an ordinary man who is stuck becoming a programmer accidentally. I am very interested in framework, cloud computing and open source.
 
