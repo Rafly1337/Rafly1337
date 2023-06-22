@@ -1,9 +1,2 @@
-<img align="right" src="assets/programming.gif" width="30%">
-
-# Hi, i'm Rafly1337 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-I am an ordinary man who is stuck becoming a programmer accidentally. I am very interested in framework, cloud computing and open source.
-
-Currently working as a web developer and sysadmin in government agencies.
-
-You can see the results of my public work on this profile page or on [@zonehax](zonehax.org).
+[![Github stats](https://github-readme-stats.vercel.app/api?username=RandsX&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe&custom_title=My+Github+Stats)](https://github.com/holiq/holiq)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandsX&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/holiq/holiq)
